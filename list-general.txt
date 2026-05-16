@@ -52,5 +52,6 @@ api.geode-sdk.org
 geode-sdk.org
 newgrounds.com
 audio.ngfiles.com
-brawlstars.com
-developer.brawlstars.com
+github.com
+api.github.com
+docs.github.com
