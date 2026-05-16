@@ -24,3 +24,7 @@ curl -o list-general.txt "https://raw.githubusercontent.com/maslina524/zapret-do
 
 - Бесконечная загрузка музыки в Geometry Dash из Newgrounds
 - [Modrinth](https://modrinth.com/)
+- Github
+  - [github.com](https://github.com/)
+  - [api.github.com](https://api.github.com/)
+  - [docs.github.com](https://docs.github.com/)
