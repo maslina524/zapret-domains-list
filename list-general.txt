@@ -143,3 +143,10 @@ codespaces.githubusercontent.com
 github.dev
 classroom.github.com
 lab.github.com
+chat.deepseek.com
+fe-static.deepseek.com
+hif-dliq.deepseek.com
+hif-leim.deepseek.com
+static.deepseek.com
+status.deepseek.com
+www.deepseek.com
