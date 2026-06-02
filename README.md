@@ -20,6 +20,11 @@ Invoke-WebRequest -Uri "https://raw.githubusercontent.com/maslina524/zapret-doma
 curl -o list-general.txt "https://raw.githubusercontent.com/maslina524/zapret-domains-list/refs/heads/main/list-general.txt"
 ```
 
+**Прямая ссылка:**
+```cmd
+https://raw.githubusercontent.com/maslina524/zapret-domains-list/refs/heads/main/list-general.txt
+```
+
 ## Что исправляет мой list
 
 - Бесконечная загрузка музыки в Geometry Dash из Newgrounds
