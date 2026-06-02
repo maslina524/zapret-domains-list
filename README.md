@@ -31,3 +31,4 @@ curl -o list-general.txt "https://raw.githubusercontent.com/maslina524/zapret-do
   - [raw.githubusercontent.com](https://raw.githubusercontent.com/)
   - и т.д.
 - [DeepSeek](https://www.deepseek.com)
+- [Python Package Index](https://pypi.org/)
