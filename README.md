@@ -37,3 +37,4 @@ https://raw.githubusercontent.com/maslina524/zapret-domains-list/refs/heads/main
   - и т.д.
 - [DeepSeek](https://www.deepseek.com)
 - [Python Package Index](https://pypi.org/)
+- Steam
